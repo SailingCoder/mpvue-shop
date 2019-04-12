@@ -1,0 +1,33 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"nodeModules": false
+	},
+	"miniprogramRoot": "dist/",
+	"compileType": "mpvue",
+	"appid": "",
+	"projectname": "",
+	"libVersion": "1.9.97",
+	"condition": {
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"home": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "活动",
+					"pathName": "home/pages/activity",
+					"query": "Id=1"
+				}
+			]
+		}
+	}
+}

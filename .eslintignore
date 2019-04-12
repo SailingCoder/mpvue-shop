@@ -1,0 +1,8 @@
+build/*.js
+config/*.js
+/src/utils/xbossdebug.min.js
+/src/utils/ald/*.js
+/src/utils/wxcharts.js
+/src/utils/wxcharts-min.js
+/src/utils/index.js
+/src/utils/qiniuUploader.js

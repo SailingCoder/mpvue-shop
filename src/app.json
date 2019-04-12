@@ -1,0 +1,12 @@
+{
+  "pages": [
+  ],
+  "window": {
+    "navigationStyle": "default",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": false,
+    "disableScroll": false
+  }
+}

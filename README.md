@@ -89,7 +89,4 @@
   </form>
   ```
 
-七牛上传音频
-微信基础版本>1.9.0
-
 ui库： https://kuangpf.com/mpvue-weui/#/navbar

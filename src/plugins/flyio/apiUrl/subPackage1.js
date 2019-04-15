@@ -1,6 +1,6 @@
 const API = {
-  'assessmentsUrl.findUserNameItems': '/dg/{userID}/paper',
-  'assessmentsUrl.getUserStatus': '/dg/getUserStatus',
+  'subPackage1Url.findUserNameItems': '/dg/{userID}/paper',
+  'subPackage1Url.getUserStatus': '/dg/getUserStatus',
 }
 
 export default API

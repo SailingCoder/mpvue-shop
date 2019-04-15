@@ -6,12 +6,10 @@ import App from '@/App'
 import store from '@/store'
 import MpvueRouterPatch from 'mpvue-router-patch'
 import IboxPlugin from '@/plugins/ibox'
-import mixins from '@/mixins'
 import '@/styles/iconfont.wxss'
 
 Vue.use(MpvueRouterPatch)
 Vue.use(IboxPlugin)
-Vue.use(mixins)
 
 Vue.config.productionTip = false
 App.myType = 'app'
